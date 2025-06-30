@@ -1,0 +1,5 @@
+Flask
+pymongo
+joblib
+scikit-learn
+bson
