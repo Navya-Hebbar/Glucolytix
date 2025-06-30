@@ -1,5 +1,4 @@
-Flask
-pymongo
-joblib
-scikit-learn
-bson
+     Flask
+     pymongo
+     joblib
+     scikit-learn
