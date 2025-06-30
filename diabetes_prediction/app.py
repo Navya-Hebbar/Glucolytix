@@ -6,7 +6,7 @@ import os
 
 app = Flask(__name__)
 
-client = MongoClient('mongodb://localhost:27017/')
+client = MongoClient('mongodb+srv://navyahebbar032005:nav*123@cluster0.bkdlc86.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
 db = client['test']
 users_collection = db["User"]
 diabetes_collection = db["Diabetes"]
